@@ -1,4 +1,4 @@
-# API REST Avanzada con Spring Boot
+# API REST Avanzada
 
 Este proyecto implementa una API REST avanzada.
 
